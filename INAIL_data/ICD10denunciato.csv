@@ -1,0 +1,568 @@
+ICD10denunciato,DescrICDX,CategoriaICDX,DescrCategoriaICDX,SettoreICDX,DescrSettoreICDX
+C88,Malattie maligne immunoproliferative,14,Tumore maligno del tessuto linfatico,,
+D64,Altre anemie,3,Anemia aplastica ed altre anemie (D60-D64),III,Malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario (D50-D89)
+D70,Agranulocitosi,5,Altre malattie del sangue e degli organi ematopoietici (D70-D77),III,Malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario (D50-D89)
+F43,Reazione a grave stress e disturbi dell'adattamento,5,Disturbi nevrotici,,
+J67,Polmonite da ipersensibilità a polveri organiche,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+K43,Ernia addominale,3,Ernie (K40-K46),XI,Malattie dell'apparato digerente (K00-K93)
+L23.7,Dermatite allergica da contatto dovuta a piante eccetto alimentari,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L24.6,Dermatite irritativa da contatto dovuta a alimenti contatto cute,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L80,Vitiligine,7,Altri disturbi della cute e del tessuto sottocutaneo (L80-L99),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+R26.1,Andatura paralitica,1,Sintomi e segni che interessano il sistema nervoso ed il sistema osteomuscolare (R25-R29),XVIII,Sintomi
+C65,Tumore maligno della pelvi renale,10,Tumori maligni dell¿apparato urinario (C64-C68),II,Tumori (C00-D48)
+F48,Altri disturbi nevrotici,5,Disturbi nevrotici,,
+L56,Altre alterazioni della cute da radiazioni ultraviolette,5,Disturbi della cute e del tessuto sottocutaneo da radiazioni (L55-L59),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L56.2,Fotodermatite da contatto,5,Disturbi della cute e del tessuto sottocutaneo da radiazioni (L55-L59),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L63,Alopecia areata,6,Disturbi degli annessi cutanei (L60-L75),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L81.4,Altra iperpigmentazione melaninica,7,Altri disturbi della cute e del tessuto sottocutaneo (L80-L99),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M17,Gonartrosi (artrosi del ginocchio),1,Artropatie (M00-M25),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+A40.8,Altre forme di setticemia streptococcica,4,Altre malattie batteriche (A30-A49),I,Alcune malattie infettive e parassitarie (A00-B99)
+A75,Tifo esantematico,7,Rickettsiosi (A75-A79),I,Alcune malattie infettive e parassitarie (A00-B99)
+A96,Febbre emorragica da arenavirus,9,Febbri virali da artropodi e febbri virali emorragiche (A90-A99),I,Alcune malattie infettive e parassitarie (A00-B99)
+D61.9,Anemia aplastica non specificata,3,Anemia aplastica ed altre anemie (D60-D64),III,Malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario (D50-D89)
+K29,Gastrite e duodenite,2,Malattie dell'esofago,,
+A22,Carbonchio,3,Alcune malattie batteriche trasmesse da animali (A20-A28),I,Alcune malattie infettive e parassitarie (A00-B99)
+D59,Anemia emolitica acquisita,2,Anemie emolitiche (D55-D59),III,Malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario (D50-D89)
+H91.1,Presbiacusia,3,Altri disturbi dell'orecchio (H90-H95),VIII,Malattie dell'orecchio e dell'apofisi mastoide (H60-H95)
+L23,Dermatite allergica da contatto,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M23,Lesione interna del ginocchio,1,Artropatie (M00-M25),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+M87,Osteonecrosi,5,Osteopatie e condropatie (M80-M94),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+A79,Altre rickettsiosi,7,Rickettsiosi (A75-A79),I,Alcune malattie infettive e parassitarie (A00-B99)
+H81,Disturbi della funzione vestibolare,2,Malattie dell'orecchio interno (H80-H83),VIII,Malattie dell'orecchio e dell'apofisi mastoide (H60-H95)
+M50,Disturbi dei dischi intervertebrali cervicali,3,Dorsopatie (M40-M54),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+A15,Tubercolosi respiratoria,,,,
+A30,Lebbra (malattia di Hansen),4,Altre malattie batteriche (A30-A49),I,Alcune malattie infettive e parassitarie (A00-B99)
+C45.7,Mesotelioma di altre sedi,6,Tumore maligno di tessuto mesoteliale e dei tessuti molli (C45-C49),II,Tumori (C00-D48)
+F32,Episodio depressivo,4,Disturbi dell'umore [affettivi] (F30-F39),V,Disturbi psichici e comportamentali (F00-F99)
+L57.8,Altra alteraz. Cutanee da esposizione cronica a radiazioni non ionizzaznti,5,Disturbi della cute e del tessuto sottocutaneo da radiazioni (L55-L59),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+B47,Micetoma,13,Micosi (B35-B49),I,Alcune malattie infettive e parassitarie (A00-B99)
+D01,Carcinoma in situ di altri e non specificati organi dell'apparato digerente,16,Tumori in situ (D00-D09),II,Tumori (C00-D48)
+D13,Tumori benigni di altre e mal definite parti dell'apparato digerente,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+H90.1,Sordità monolaterale da difetto di trasmissione con mantenimento della funzione uditiva controlaterale,3,Altri disturbi dell'orecchio (H90-H95),VIII,Malattie dell'orecchio e dell'apofisi mastoide (H60-H95)
+M75.5,Borsite della spalla,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+C97,Tumori maligni di sedi indipendenti multiple (primitive),15,Tumori maligni di sedi indipendenti (primitive) multiple (C97),II,Tumori (C00-D48)
+D16,Tumori benigni delle ossa e della cartilagine articolare,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+F42,Disturbo ossessivo compulsivo,5,Disturbi nevrotici,,
+F06.4,Disturbo d'ansia organico,1,Disturbi psichici di natura organica,,
+J38.2,Noduli delle corde vocali,1,Altre malattie delle alte vie respiratorie (J30-J39),X,Malattie del sistema respiratorio (J00-J99)
+J63.0,Alluminosi del polmone,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+J64,Pneumoconiosi non specificata,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+M86,Osteomielite,5,Osteopatie e condropatie (M80-M94),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+A78,Febbre Q,7,Rickettsiosi (A75-A79),I,Alcune malattie infettive e parassitarie (A00-B99)
+F50,Disturbi dell'alimentazione,6,Sindromi comportamentali associate a disfunzioni fisiologiche e a fattori fisici (F50-F59),V,Disturbi psichici e comportamentali (F00-F99)
+J67.6,Polmone degli scortecciatori d'acero,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+T56.5,Effetto tossico di metalli zinco e suoi composti,1,Effetti tossici di sostanze di origine principalmente non medicamentosa (T51-T65),XIX,Traumatismi
+C50,Tumore maligno della mammella,7,Tumore maligno della mammella (C50),II,Tumori (C00-D48)
+F22,Disturbi deliranti persistenti,3,Schizofrenia,,
+G72.2,Miopatia da altri agenti tossici,8,Malattie della giunzione neuromuscolare e dei muscoli (G70-G73),VI,Malattie del sistema nervoso (G00-G99)
+I64,Accidente cerebrovascolare,,,,
+J69,Polmoniti da sostanze solide o liquide,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+R26.0,Andatura atassica,1,Sintomi e segni che interessano il sistema nervoso ed il sistema osteomuscolare (R25-R29),XVIII,Sintomi
+T70.1,Barotrauma sinusale,2,Altri e non specificati effetti di cause esterne (T66-T78),XIX,Traumatismi
+C12,Tumore maligno del seno piriforme,1,Tumori maligni del labbro,,
+C34,Tumore maligno dei bronchi e del polmone,3,Tumori maligni dell¿apparato respiratorio e degli organi intratoracici (C30-C39),II,Tumori (C00-D48)
+C47,Tumore maligno dei nervi periferici e del sistema nervoso autonomo,6,Tumore maligno di tessuto mesoteliale e dei tessuti molli (C45-C49),II,Tumori (C00-D48)
+C62,Tumore maligno del testicolo,9,Tumori maligni degli organi genitali maschili (C60-C63),II,Tumori (C00-D48)
+D06,Carcinoma in situ della cervice uterina,16,Tumori in situ (D00-D09),II,Tumori (C00-D48)
+D20,Tumore benigno di tessuto molle del peritoneo e del retro peritoneo,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+I80.0,Flebite e tromboflebite dei vasi superficiali degli arti inferiori,7,Malattie delle vene,,
+J92,Placca pleurica,5,Altre malattie della pleura (J90-J94),X,Malattie del sistema respiratorio (J00-J99)
+ND,Non Determinato,ND,Non Determinato,ND,Non Determinato
+F07,Disturbi di personalità  e del comportamento dovuti a malattia,,,,
+C49,Tumore maligno del tessuto connettivo e di altri tessuti molli,6,Tumore maligno di tessuto mesoteliale e dei tessuti molli (C45-C49),II,Tumori (C00-D48)
+F13.2,Disturbi psichici e comportamentali dovuti all'uso di sedativi o ipnoici Bromismo,2,Disturbi psichici e comportamentali da uso di sostanze psicoattive(F10-F19),V,Disturbi psichici e comportamentali (F00-F99)
+K05.5,Altre periodontopatie,1,Malattie della cavità orale,,
+M70.2,Borsite dell'olecrano,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+I11,Cardiopatia ipertensiva,1,Malattie ipertensive (I10-I15),IX,Malattie del sistema circolatorio (I00-I99)
+I25,Cardiopatia ischemica cronica,2,Cardiopatie ischemiche (I20-I25),IX,Malattie del sistema circolatorio (I00-I99)
+J68.3,Altre condizioni morbose acute e subacute dell'app.respiratorio da sostanze chimiche gas fumi e vapori,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+A06,Amebiasi,1,Malattie infettive intestinali (A00-A09),I,Alcune malattie infettive e parassitarie (A00-B99)
+B16,Epatite acuta B,11,Epatite virale (B15-B19),I,Alcune malattie infettive e parassitarie (A00-B99)
+D03,Melanoma in situ,16,Tumori in situ (D00-D09),II,Tumori (C00-D48)
+H16.0,Ulcera corneale,2,Disturbi della sclera,,
+H18.9,Disturbo della cornea non specificato,2,Disturbi della sclera,,
+I21,Infarto miocardico acuto,2,Cardiopatie ischemiche (I20-I25),IX,Malattie del sistema circolatorio (I00-I99)
+J44,Altre pneumopatie ostruttive croniche,2,Malattie croniche delle basse vie respiratorie (J40-J47),X,Malattie del sistema respiratorio (J00-J99)
+997,ASSENZA DI MALATTIA DENUNCIATA,99,CODICE FITTIZIO,ZZZZZ,CODICE FITTIZIO
+J61,Pneumoconiosi da asbesto (amianto) ed altre fibre minerali: asbestosi,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+N18,Insufficienza renale cronica,3,Insufficienza renale (N17-N19),XIV,Malattie dell'apparato genitourinario (N00-N99)
+A49,Infezione batterica di sede non specificata,4,Altre malattie batteriche (A30-A49),I,Alcune malattie infettive e parassitarie (A00-B99)
+C07,Tumore maligno della parotide,1,Tumori maligni del labbro,,
+G56.0,Sindrome del tunnel carpale,6,Disturbi dei nervi,,
+H43.3,Altre opacità del corpo vitreo,6,Disturbi del corpo vitreo e del globo oculare (H43-H45),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+J62.0,pneumoconiosi da polvere di talco,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+J63.5,Stannosi del polmone,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+M06,Altre artriti reumatoidi,1,Artropatie (M00-M25),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+N00,Sindrome nefritica acuta,1,Malattie glomerulari (N00-N08),XIV,Malattie dell'apparato genitourinario (N00-N99)
+A05,Altre intossicazioni alimentari batteriche,1,Malattie infettive intestinali (A00-A09),I,Alcune malattie infettive e parassitarie (A00-B99)
+I25.2,Infarto miocardico pregresso,2,Cardiopatie ischemiche (I20-I25),IX,Malattie del sistema circolatorio (I00-I99)
+J68.4,Condizioni morbose respiratorie croniche da sostanze chimiche gas fumi e vapori,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+C00,Tumore maligno del labbro,1,Tumori maligni del labbro,,
+C71,Tumore maligno dell'encefalo,11,Tumori maligni dell¿occhio,,
+F34,Disturbi persistenti dell'umore (affettivi),4,Disturbi dell'umore [affettivi] (F30-F39),V,Disturbi psichici e comportamentali (F00-F99)
+H46,Neurite ottica,7,Disturbi del nervo ottico e delle vie ottiche (H46-H48),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+I13,Malattia ipertensiva cardiaca e renale,1,Malattie ipertensive (I10-I15),IX,Malattie del sistema circolatorio (I00-I99)
+I25.5,Cardiomiopatia ischemica,2,Cardiopatie ischemiche (I20-I25),IX,Malattie del sistema circolatorio (I00-I99)
+L58,Radiodermite,5,Disturbi della cute e del tessuto sottocutaneo da radiazioni (L55-L59),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+D31,Tumori benigni dell'occhio e degli annessi oculari,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+I27,Altre forme di cuore polmonare,3,Cuore polmonare e malattie del circolo polmonare (I26-I28),IX,Malattie del sistema circolatorio (I00-I99)
+I71,Aneurisma e dissezione dell'aorta,6,Malattie delle arterie,,
+J68.1,Edema polmonare acuto da sostanze chimiche  gas fumi vapori,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+K29.9,Gastroduodenite non specificata,2,Malattie dell'esofago,,
+M77.1,Epicondilite laterale,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+C17,Tumore maligno dell'intestino tenue,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+J68.2,Infiamm.delle alte vie respiratorie da sostanze chimiche gas fumi e vapori non classificata altrove,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+M51.1,Disturbi di disco intervertebrale lombare e di altra sede associati a radicolopatia,3,Dorsopatie (M40-M54),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+A81.0,Malattia di Creutzfeldt-Jakob,8,Infezioni virali del sistema nervoso centrale (A80-A89),I,Alcune malattie infettive e parassitarie (A00-B99)
+C04,Tumore maligno del pavimento orale,1,Tumori maligni del labbro,,
+J30.0,Rinite vasomotoria,1,Altre malattie delle alte vie respiratorie (J30-J39),X,Malattie del sistema respiratorio (J00-J99)
+J34.8,Altri disturbi specificati del naso e dei seni paranasali. Perforazione del setto nasale,,,,
+J66.2,Cannabinosi,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+K10.3,Alveolite,1,Malattie della cavità orale,,
+K40,Ernia inguinale,3,Ernie (K40-K46),XI,Malattie dell'apparato digerente (K00-K93)
+A41.8,Altre forme di setticemia specificata,4,Altre malattie batteriche (A30-A49),I,Alcune malattie infettive e parassitarie (A00-B99)
+C40,Tumore maligno di osso e cartilagine articolare degli arti,4,Tumori maligni di osso e cartilagine articolare (C40-C41),II,Tumori (C00-D48)
+C85,Altri e non specificati tipi di linfomi non Hodgkin,14,Tumore maligno del tessuto linfatico,,
+H35.9,Disturbo retinico non specificato,4,Disturbi della coroide e della retina (H30-H36),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+L23.1,Dermatite allergica da contatto dovuta ad adesivi,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M75,Lesioni della spalla,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+D17,Tumore lipomatoso benigno,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+D29,Tumori benigni degli organi genitali maschili,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+I15,Ipertensione secondaria,1,Malattie ipertensive (I10-I15),IX,Malattie del sistema circolatorio (I00-I99)
+I40,Miocardite acuta,4,Altre forme di cardiopatia (I30-I52),IX,Malattie del sistema circolatorio (I00-I99)
+K51,Colite ulcerosa,4,Enteriti e coliti non infettive (K50-K52),XI,Malattie dell'apparato digerente (K00-K93)
+D47.3,Trombocitemia essenziale (emorragica),18,Tumori di comportamento incerto o sconosciuto (D37-D48),II,Tumori (C00-D48)
+F06.3,Disturbi dell'umore (affettivi) organici,1,Disturbi psichici di natura organica,,
+G21,Parkinsonismo secondario,2,Disturbi extrapiramidali e del movimento (G20-G26),VI,Malattie del sistema nervoso (G00-G99)
+A77,Febbre maculosa (rickettsiosi da zecche),7,Rickettsiosi (A75-A79),I,Alcune malattie infettive e parassitarie (A00-B99)
+G54.8,Altri disturbi dei plessi e delle radici nervose,6,Disturbi dei nervi,,
+G56.3,Lesione del nervo radiale,6,Disturbi dei nervi,,
+K10.2,Malattie infiammatorie dei mascellari,1,Malattie della cavità orale,,
+L57.0,Cheratosi attinica,5,Disturbi della cute e del tessuto sottocutaneo da radiazioni (L55-L59),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L66,Alopecia cicatriziale (perdita di capelli o peli,,,,
+M76.8,Altre entesopatie degli arti inferiori,,,,
+A24,Morva e melioidosi,3,Alcune malattie batteriche trasmesse da animali (A20-A28),I,Alcune malattie infettive e parassitarie (A00-B99)
+C31.0,Tumore maligno del seno mascellare,3,Tumori maligni dell¿apparato respiratorio e degli organi intratoracici (C30-C39),II,Tumori (C00-D48)
+L81.5,Leucodermia non classificata altrove,7,Altri disturbi della cute e del tessuto sottocutaneo (L80-L99),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M54.1,Radicolopatia,3,Dorsopatie (M40-M54),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+A02,Altre infezioni da salmonella,1,Malattie infettive intestinali (A00-A09),I,Alcune malattie infettive e parassitarie (A00-B99)
+A04,Altre infezioni batteriche intestinali,1,Malattie infettive intestinali (A00-A09),I,Alcune malattie infettive e parassitarie (A00-B99)
+B17.1,Epatite acuta C,11,Epatite virale (B15-B19),I,Alcune malattie infettive e parassitarie (A00-B99)
+C45,Mesotelioma,6,Tumore maligno di tessuto mesoteliale e dei tessuti molli (C45-C49),II,Tumori (C00-D48)
+C56,Tumore maligno dell'ovaio,8,Tumori maligni degli organi genitali femminili (C51-C58),II,Tumori (C00-D48)
+J67.5,Polmone dei lavoratori di funghi,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+J69.1,Polmonite da oli o essenze,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+N05,Sindrome nefritica non specificata,1,Malattie glomerulari (N00-N08),XIV,Malattie dell'apparato genitourinario (N00-N99)
+C18,Tumore maligno del colon,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+D02,Carcinoma in situ dell'orecchio medio e dell'apparato respiratorio,16,Tumori in situ (D00-D09),II,Tumori (C00-D48)
+D09,Carcinoma in situ di altre e non specificate sedi,16,Tumori in situ (D00-D09),II,Tumori (C00-D48)
+G47,Disturbi del sonno,5,Disturbi episodici e parossistici (G40-G47),VI,Malattie del sistema nervoso (G00-G99)
+I25.1,Cardiopatia aterosclerotica,2,Cardiopatie ischemiche (I20-I25),IX,Malattie del sistema circolatorio (I00-I99)
+I63,Infarto cerebrale,5,Malattie cerebrovascolari (I60-I69),IX,Malattie del sistema circolatorio (I00-I99)
+L24.0,Dermatite irritativa da contatto dovuta a detergenti,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+H53.2,Diplopia,8,Disturbi visivi e cecità (H53-H54),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+I61,Emorragia intracerebrale,5,Malattie cerebrovascolari (I60-I69),IX,Malattie del sistema circolatorio (I00-I99)
+L70.8,Altra forma di acne,6,Disturbi degli annessi cutanei (L60-L75),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M16,Coxartrosi (artrosi dell'anca),1,Artropatie (M00-M25),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+M50.2,Altra ernia di disco cervicale,3,Dorsopatie (M40-M54),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+C23,Tumore maligno della colecisti,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+C24,Tumore maligno di altre e non specificate parti delle vie biliari,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+D11,Tumori benigni delle ghiandole salivari maggiori,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+D15,Tumore benigno di altri e non specificati organi intratoracici,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+F45,Disturbi somatoformi,5,Disturbi nevrotici,,
+H72,Perforazione della membrana timpanica,1,Malattie dell'orecchio medio e della mastoide (H65-H75),VIII,Malattie dell'orecchio e dell'apofisi mastoide (H60-H95)
+I74,Embolia e trombosi arteriose,6,Malattie delle arterie,,
+J63.8,Pneumoconiosi da altre polveri inorganiche specificate,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+L23.3,Dermatite allergica da contatto dovuta a farmaci a contatto con cute,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+B18,Epatite virale cronica,11,Epatite virale (B15-B19),I,Alcune malattie infettive e parassitarie (A00-B99)
+B55,Leishmaniosi,14,Malattie protozoarie (B50-B64),I,Alcune malattie infettive e parassitarie (A00-B99)
+C94,Altre leucemie di tipo cellulare specificato,14,Tumore maligno del tessuto linfatico,,
+D14,Tumori benigni dell'orecchio medio e dell'apparato respiratorio,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+D69.5,Trombocitopenia secondaria,4,Difetti della coagulazione,,
+J63.3,Fibrosi da grafite del polmone,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+M77,Altre entesopatie,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+T56.0,Effetto tossico di metalli piombo e i suoi composti,1,Effetti tossici di sostanze di origine principalmente non medicamentosa (T51-T65),XIX,Traumatismi
+C19,Tumore maligno della giunzione retto-sigmoidea,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+C91,Leucemia linfoide,14,Tumore maligno del tessuto linfatico,,
+G54.0,Disturbi del plesso brachiale,6,Disturbi dei nervi,,
+M51.3,Degenerazione di altro disco intervertebrale specificato,3,Dorsopatie (M40-M54),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+M85.1,Fluorosi scheletrica,5,Osteopatie e condropatie (M80-M94),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+T56.1,Effetto tossico di metalli mercurio e suoi composti,1,Effetti tossici di sostanze di origine principalmente non medicamentosa (T51-T65),XIX,Traumatismi
+T70.3,Malattia dei cassoni (malattia da decompressione,2,Altri e non specificati effetti di cause esterne (T66-T78),XIX,Traumatismi
+A18,Tubercolosi di altri organi,2,Tubercolosi (A15-A19),I,Alcune malattie infettive e parassitarie (A00-B99)
+F33,Disturbo depressivo ricorrente,4,Disturbi dell'umore [affettivi] (F30-F39),V,Disturbi psichici e comportamentali (F00-F99)
+H10.5,Blefarocongiuntivite,1,Disturbi della congiuntiva (H10-H13),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+L24.2,Dermatite irritativa da contatto dovuta a solventi,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M34.9,Sclerosi sistemica non specificata,2,Disturbi sistemici del tessuto connettivo (M30-M36),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+M50.3,Altra degenerazione di disco cervicale,3,Dorsopatie (M40-M54),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+M51.2,Ernia di altro disco intervertebrale  specificato,3,Dorsopatie (M40-M54),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+A21,Tularemia,3,Alcune malattie batteriche trasmesse da animali (A20-A28),I,Alcune malattie infettive e parassitarie (A00-B99)
+C45.0,Mesotelioma della pleura,6,Tumore maligno di tessuto mesoteliale e dei tessuti molli (C45-C49),II,Tumori (C00-D48)
+D47.2,Gammopatia monoclonale,18,Tumori di comportamento incerto o sconosciuto (D37-D48),II,Tumori (C00-D48)
+F20,Schizofrenia,3,Schizofrenia,,
+H90.3,Sordità neurosensoriale bilaterale,3,Altri disturbi dell'orecchio (H90-H95),VIII,Malattie dell'orecchio e dell'apofisi mastoide (H60-H95)
+J67.8,Polmoniti da ipersensibilità ed altre polveri organiche,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+J70,Condizioni morbose respiratorie da altri agenti esterni,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+L24.1,Dermatite irritativa da contatto dovuta a oli e grassi,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M30.8,Altre condizioni morbose correlate alla panarterite nodosa,2,Disturbi sistemici del tessuto connettivo (M30-M36),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+M62,Altri disturbi muscolari,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+C09,Tumore maligno della tonsilla,1,Tumori maligni del labbro,,
+C61,Tumore maligno della prostata,9,Tumori maligni degli organi genitali maschili (C60-C63),II,Tumori (C00-D48)
+I22,Infarto miocardico recidivante,2,Cardiopatie ischemiche (I20-I25),IX,Malattie del sistema circolatorio (I00-I99)
+L23.4,Dermatite allergica da contatto dovuta a coloranti,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+H90,Sordità da difetto di trasmissione e/o neurosensoriale,3,Altri disturbi dell'orecchio (H90-H95),VIII,Malattie dell'orecchio e dell'apofisi mastoide (H60-H95)
+I51.4,Miocardite non specificata,4,Altre forme di cardiopatia (I30-I52),IX,Malattie del sistema circolatorio (I00-I99)
+N11,Nefrite cronica tubulo-interstiziale,2,Malattie renali tubulo-interstiziali (N10-N16),XIV,Malattie dell'apparato genitourinario (N00-N99)
+A48,Altre malattie batteriche non classificate altrove,4,Altre malattie batteriche (A30-A49),I,Alcune malattie infettive e parassitarie (A00-B99)
+B67,Echinococcosi,15,Elmintiasi (B65-B83),I,Alcune malattie infettive e parassitarie (A00-B99)
+C22,Tumore maligno del fegato e dei dotti biliari intraepatici,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+D23,Altri tumori benigni della cute,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+E07.9,Disturbo della tiroide non specificato,1,Disturbi della tiroide (E00-E07),IV,Malattie endocrine
+H26.9,Altra cataratta non specificata,3,Disturbi del cristallino (H25-H28),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+I10,Ipertensione essenziale (primitiva),1,Malattie ipertensive (I10-I15),IX,Malattie del sistema circolatorio (I00-I99)
+I83,Varici (venose) degli arti inferiori,7,Malattie delle vene,,
+J63.1,Fibrosi da bauxite del polmone,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+K26,Ulcera duodenale,2,Malattie dell'esofago,,
+L24.8,Dermatite irritativa da contatto dovuta a altri agenti: coloranti,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L51,Eritema polimorfo,4,Orticaria ed eritema (L50-L54),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+C02,Tumore maligno di altre e non specificate parti della lingua,1,Tumori maligni del labbro,,
+C53,Tumore maligno della cervice uterina,8,Tumori maligni degli organi genitali femminili (C51-C58),II,Tumori (C00-D48)
+D19,Tumore benigno di tessuto mesoteliale,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+F40,Disturbi ansioso-fobici,5,Disturbi nevrotici,,
+I70,Aterosclerosi,6,Malattie delle arterie,,
+L56.1,Reazione fotoallergica a farmaci,5,Disturbi della cute e del tessuto sottocutaneo da radiazioni (L55-L59),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L98.4,Ulcera cronica della cute non classificata altrove,7,Altri disturbi della cute e del tessuto sottocutaneo (L80-L99),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+B53.0,Malaria da Plasmodium ovale,14,Malattie protozoarie (B50-B64),I,Alcune malattie infettive e parassitarie (A00-B99)
+C31.2,Tumore maligno del seno frontale,3,Tumori maligni dell¿apparato respiratorio e degli organi intratoracici (C30-C39),II,Tumori (C00-D48)
+D74.8,Altre metaemoglobinemie,5,Altre malattie del sangue e degli organi ematopoietici (D70-D77),III,Malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario (D50-D89)
+J67.1,Bagassosi,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+L24.3,Dermatite irritativa da contatto dovuta a cosmetici,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+N14.4,Nefropatia tossica non classificata altrove,2,Malattie renali tubulo-interstiziali (N10-N16),XIV,Malattie dell'apparato genitourinario (N00-N99)
+B35,Dermatofitosi,13,Micosi (B35-B49),I,Alcune malattie infettive e parassitarie (A00-B99)
+E74.8,Altri disturbi specificati del metabolismo dei carboidrati,3,Disturbi metabolici (E70-E90),IV,Malattie endocrine
+B51,Malaria da Plasmodium vivax,14,Malattie protozoarie (B50-B64),I,Alcune malattie infettive e parassitarie (A00-B99)
+F43.1,Disturbo post-traumatico da stress,5,Disturbi nevrotici,,
+G57.5,Sindrome del tunnel tarsale,6,Disturbi dei nervi,,
+H55,Nistagmo ed altri movimenti irregolari degli occhi,9,Altri disturbi dell'occhio e degli annessi oculari (H55-H59),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+A35,Altre forme di tetano,4,Altre malattie batteriche (A30-A49),I,Alcune malattie infettive e parassitarie (A00-B99)
+B17,Altre epatiti virali acute,11,Epatite virale (B15-B19),I,Alcune malattie infettive e parassitarie (A00-B99)
+D61.2,Anemia aplastica da altri agenti esterni,3,Anemia aplastica ed altre anemie (D60-D64),III,Malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario (D50-D89)
+E80.2,Altra porfiria,3,Disturbi metabolici (E70-E90),IV,Malattie endocrine
+I50,Insufficienza cardiaca,4,Altre forme di cardiopatia (I30-I52),IX,Malattie del sistema circolatorio (I00-I99)
+J44.9,Pneumopatia ostruttiva cronica non specificata,2,Malattie croniche delle basse vie respiratorie (J40-J47),X,Malattie del sistema respiratorio (J00-J99)
+J45,Asma,2,Malattie croniche delle basse vie respiratorie (J40-J47),X,Malattie del sistema respiratorio (J00-J99)
+K74,Fibrosi e cirrosi epatiche,6,Malattie del fegato (K70-K77),XI,Malattie dell'apparato digerente (K00-K93)
+T78,Effetti avversi non classificati altrove - Effetti extrauditivi del rumore,2,Altri e non specificati effetti di cause esterne (T66-T78),XIX,Traumatismi
+D34,Tumore benigno della tiroide,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+H16,Cheratite,2,Disturbi della sclera,,
+J32,Sinusite cronica,1,Altre malattie delle alte vie respiratorie (J30-J39),X,Malattie del sistema respiratorio (J00-J99)
+N14.3,Nefropatia indotta da metalli pesanti,2,Malattie renali tubulo-interstiziali (N10-N16),XIV,Malattie dell'apparato genitourinario (N00-N99)
+C69,Tumore maligno dell'occhio e degli annessi oculari,11,Tumori maligni dell¿occhio,,
+D89.1,Crioglobulinemia,6,Alcuni disturbi interessanti il sistema immunitario (D80-D89),III,Malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario (D50-D89)
+L24.5,Dermatite irritativa da contatto dovuta a altri prodotti chimici: cemento insetticidi,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+A71,Tracoma,6,Altre malattie causate da Chlamydiae (A70-A74),I,Alcune malattie infettive e parassitarie (A00-B99)
+F18.,Disturbi psichici e comportamentali dovuti all'uso di solventi volatili,2,Disturbi psichici e comportamentali da uso di sostanze psicoattive(F10-F19),V,Disturbi psichici e comportamentali (F00-F99)
+G01,Meningite in malattie batteriche classificate altrove,1,Malattie infiammatorie del sistema nervoso centrale (G00-G09),VI,Malattie del sistema nervoso (G00-G99)
+M65.3,Dito a scatto,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+C44,Altri tumori maligni della cute,5,Melanoma ed altri tumori maligni della cute (C43-C44),II,Tumori (C00-D48)
+G56,Mononeuropatie dell'arto superiore,6,Disturbi dei nervi,,
+I42,Cardiomiopatie,4,Altre forme di cardiopatia (I30-I52),IX,Malattie del sistema circolatorio (I00-I99)
+J45.0,Asma preminentemente allergico,2,Malattie croniche delle basse vie respiratorie (J40-J47),X,Malattie del sistema respiratorio (J00-J99)
+M50.1,Disturbo di disco cervicale associato a radicolopatia,3,Dorsopatie (M40-M54),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+M77.0,Epicondilite mediale,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+C96.9,Tumore maligno del tessuto linfoide,,,,
+D47.0,Tumori di comportamento incerto o sconosciuto di istiociti e delle mast-cellule,18,Tumori di comportamento incerto o sconosciuto (D37-D48),II,Tumori (C00-D48)
+I84,Emorroidi,7,Malattie delle vene,,
+J31,Rinite,,,,
+J45.8,Asma misto,2,Malattie croniche delle basse vie respiratorie (J40-J47),X,Malattie del sistema respiratorio (J00-J99)
+J90,Versamento pleurico non classificato altrove,5,Altre malattie della pleura (J90-J94),X,Malattie del sistema respiratorio (J00-J99)
+K72,Insufficienza epatica non specificata altrove,6,Malattie del fegato (K70-K77),XI,Malattie dell'apparato digerente (K00-K93)
+L92.3,Granuloma da corpo estraneo della cute e del tessuto sottocutaneo,7,Altri disturbi della cute e del tessuto sottocutaneo (L80-L99),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M31.3,Granulomatosi di Wegener,2,Disturbi sistemici del tessuto connettivo (M30-M36),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+M76.6,Tendinite di Achille,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+A17,Tubercolosi del sistema nervoso,2,Tubercolosi (A15-A19),I,Alcune malattie infettive e parassitarie (A00-B99)
+C01,Tumore maligno della base della lingua,1,Tumori maligni del labbro,,
+C67,Tumore maligno della vescica,10,Tumori maligni dell¿apparato urinario (C64-C68),II,Tumori (C00-D48)
+C80,Tumore maligno di sede non specificata,13,Tumori maligni di sedi mal definite,,
+D46,Sindromi mielodisplasiche,18,Tumori di comportamento incerto o sconosciuto (D37-D48),II,Tumori (C00-D48)
+G25.2,Altre forme specificate di tremore,2,Disturbi extrapiramidali e del movimento (G20-G26),VI,Malattie del sistema nervoso (G00-G99)
+I31,Altre malattie del pericardio,4,Altre forme di cardiopatia (I30-I52),IX,Malattie del sistema circolatorio (I00-I99)
+L21,Dermatite seborroica,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L50.0,Orticaria allergica,4,Orticaria ed eritema (L50-L54),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+A22.0,Carbonchio cutaneo,3,Alcune malattie batteriche trasmesse da animali (A20-A28),I,Alcune malattie infettive e parassitarie (A00-B99)
+B75,Trichinellosi,15,Elmintiasi (B65-B83),I,Alcune malattie infettive e parassitarie (A00-B99)
+D35,Tumori benigni di altre e non specificate ghiandole endocrine,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+F43.2,Disturbi dell'adattamento,5,Disturbi nevrotici,,
+G20,Morbo di Parkinson,2,Disturbi extrapiramidali e del movimento (G20-G26),VI,Malattie del sistema nervoso (G00-G99)
+C74,Tumore maligno della ghiandola surrenale,12,Tumore maligno della tiroide e delle altre ghiandole endocrine (C73-C75),II,Tumori (C00-D48)
+G56.2,Lesione del nervo ulnare,6,Disturbi dei nervi,,
+G72,Altre miopatie,8,Malattie della giunzione neuromuscolare e dei muscoli (G70-G73),VI,Malattie del sistema nervoso (G00-G99)
+L20,Dermatite atopica,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+A48.1,Malattia dei legionari,4,Altre malattie batteriche (A30-A49),I,Alcune malattie infettive e parassitarie (A00-B99)
+C48,Tumore maligno del retroperitoneo e peritoneo,6,Tumore maligno di tessuto mesoteliale e dei tessuti molli (C45-C49),II,Tumori (C00-D48)
+D25,Leiomioma dell'utero,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+F41.0,Disturbo da attacchi di panico (ansia episodica parossistica),5,Disturbi nevrotici,,
+G44.3,Cefalea cronica post-traumatica,5,Disturbi episodici e parossistici (G40-G47),VI,Malattie del sistema nervoso (G00-G99)
+I26,Embolia polmonare,3,Cuore polmonare e malattie del circolo polmonare (I26-I28),IX,Malattie del sistema circolatorio (I00-I99)
+I73.0,Sindrome di Raynaud,6,Malattie delle arterie,,
+J38.1,Polipo delle corde vocali e della laringe,1,Altre malattie delle alte vie respiratorie (J30-J39),X,Malattie del sistema respiratorio (J00-J99)
+N17,Insufficienza renale acuta,3,Insufficienza renale (N17-N19),XIV,Malattie dell'apparato genitourinario (N00-N99)
+A03,Shigellosi,1,Malattie infettive intestinali (A00-A09),I,Alcune malattie infettive e parassitarie (A00-B99)
+A20,Peste,3,Alcune malattie batteriche trasmesse da animali (A20-A28),I,Alcune malattie infettive e parassitarie (A00-B99)
+A28,Altre specificate malattie batteriche trasmesse da animali,,,,
+B18.2,Epatite virale cronica C,11,Epatite virale (B15-B19),I,Alcune malattie infettive e parassitarie (A00-B99)
+D45,Policitemia vera,18,Tumori di comportamento incerto o sconosciuto (D37-D48),II,Tumori (C00-D48)
+L52,Eritema nodoso,4,Orticaria ed eritema (L50-L54),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+C66,Tumore maligno dell'uretere,10,Tumori maligni dell¿apparato urinario (C64-C68),II,Tumori (C00-D48)
+D27,Tumore benigno dell'ovaio,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+G55.1,Compressioni delle radici nervose e dei plessi in disturbi dei dischi intervertebrali (M50-M51+),6,Disturbi dei nervi,,
+J66.8,Malattie delle vie aeree causate da polveri organiche specifiche,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+M75.0,Capsulite adesiva della spalla,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+M75.3,Tendinite calcificante della spalla,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+A08,Infezioni virali intestinali ed altre infezioni intestinali specificate,1,Malattie infettive intestinali (A00-A09),I,Alcune malattie infettive e parassitarie (A00-B99)
+A26,Erisipeloide,3,Alcune malattie batteriche trasmesse da animali (A20-A28),I,Alcune malattie infettive e parassitarie (A00-B99)
+G32,Altre malattie degenerative del sistema nervoso in malattie classificate altrove,3,Altre malattie degenerative del sistema nervoso (G30-G32),VI,Malattie del sistema nervoso (G00-G99)
+H83.0,Labirintite,2,Malattie dell'orecchio interno (H80-H83),VIII,Malattie dell'orecchio e dell'apofisi mastoide (H60-H95)
+H90.6,Sordità bilaterale mista trasmissiva e neurosensoriale,3,Altri disturbi dell'orecchio (H90-H95),VIII,Malattie dell'orecchio e dell'apofisi mastoide (H60-H95)
+I12,Malattia renale ipertensiva,1,Malattie ipertensive (I10-I15),IX,Malattie del sistema circolatorio (I00-I99)
+J70.1,Manifestazioni polmonari croniche ed altre da radiazioni,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+K73,Epatite cronica non classificata altrove,6,Malattie del fegato (K70-K77),XI,Malattie dell'apparato digerente (K00-K93)
+L25,Dermatite da contatto non specificata,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L57.5,Granuloma attinico,5,Disturbi della cute e del tessuto sottocutaneo da radiazioni (L55-L59),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M72.0,Fibromatosi della fascia palmare (Dupuytren),4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+A69.2,Malattia di Lyme,5,Altre malattie da spirochete (A65-A69),I,Alcune malattie infettive e parassitarie (A00-B99)
+H10.4,Congiuntivite cronica,1,Disturbi della congiuntiva (H10-H13),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+H83.3,Effetti del rumore sull'orecchio interno - ipoacusia da rumore,,,,
+L10,Pemfigo,1,Malattie bollose (L10-L14),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L50,Orticaria,4,Orticaria ed eritema (L50-L54),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M75.2,Tendinite bicipitale,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+A01,Febbre tifoide e paratifo,1,Malattie infettive intestinali (A00-A09),I,Alcune malattie infettive e parassitarie (A00-B99)
+C15,Tumore maligno dell'esofago,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+I36,Disturbi non reumatici della (valvola) tricuspide,4,Altre forme di cardiopatia (I30-I52),IX,Malattie del sistema circolatorio (I00-I99)
+I37,Disturbi della valvola polmonare,4,Altre forme di cardiopatia (I30-I52),IX,Malattie del sistema circolatorio (I00-I99)
+M90.3,Osteonecrosi in malattia dei cassoni,5,Osteopatie e condropatie (M80-M94),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+B42,Sporotricosi,13,Micosi (B35-B49),I,Alcune malattie infettive e parassitarie (A00-B99)
+D12,Tumori benigni di colon,,,,
+D24,Tumore benigno della mammella,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+D36,Tumori benigni di altre e non specificate sedi,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+L56.0,Reazione fototossica a farmaci,5,Disturbi della cute e del tessuto sottocutaneo da radiazioni (L55-L59),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M65.8,Altre sinoviti e tenosinoviti,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+T70.0,Barotrauma otitico,2,Altri e non specificati effetti di cause esterne (T66-T78),XIX,Traumatismi
+A16,Tubercolosi respiratoria,,,,
+A23,Brucellosi,3,Alcune malattie batteriche trasmesse da animali (A20-A28),I,Alcune malattie infettive e parassitarie (A00-B99)
+C08,Tumore maligno di altre e non specificate ghiandole salivari maggiori,1,Tumori maligni del labbro,,
+D18,Emangioma e linfangioma di qualsiasi sede,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+F29,Psicosi non organica non specificata,3,Schizofrenia,,
+I73,Altre malattie vascolari periferiche,6,Malattie delle arterie,,
+J43,Enfisema,2,Malattie croniche delle basse vie respiratorie (J40-J47),X,Malattie del sistema respiratorio (J00-J99)
+J67.9,Polmonite da ipersensibilità  a polvere organica non specificata,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+J68,Condizioni morbose respiratorie da inalazione di sostanze chimiche,,,,
+L13,Altre malattie bollose,1,Malattie bollose (L10-L14),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L23.6,Dermatite allergica da contatto dovuta ad alimenti a contatto con la cute,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L24,Dermatite irritativa da contatto,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L56.3,Orticaria solare,5,Disturbi della cute e del tessuto sottocutaneo da radiazioni (L55-L59),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M89.5,Osteolisi,5,Osteopatie e condropatie (M80-M94),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+C16,Tumore maligno dello stomaco,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+G54.2,Disturbi delle radici cervicali non classificati altrove,6,Disturbi dei nervi,,
+G63.2,Polineuropatia diabetica,7,Polineuropatie ed altri disturbi del sistema nervoso peiferico(G60-G64),VI,Malattie del sistema nervoso (G00-G99)
+J63.4,Siderosi,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+J67.4,Polmone dei lavoratori del malto,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+L50.1,Orticaria idiopatica,4,Orticaria ed eritema (L50-L54),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L81.9,Disturbo di pigmentazione non specificato,7,Altri disturbi della cute e del tessuto sottocutaneo (L80-L99),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+B44,Aspergillosi,13,Micosi (B35-B49),I,Alcune malattie infettive e parassitarie (A00-B99)
+C10,Tumore maligno dell'orofaringe,1,Tumori maligni del labbro,,
+C30,Tumore maligno di cavità nasale e dell'orecchio medio,3,Tumori maligni dell¿apparato respiratorio e degli organi intratoracici (C30-C39),II,Tumori (C00-D48)
+K52,Altre gastroenteriti e coliti non infettive,4,Enteriti e coliti non infettive (K50-K52),XI,Malattie dell'apparato digerente (K00-K93)
+L40,Psoriasi,3,Disturbi papulosquamosi della cute (L40-L45),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M18,Artrosi della prima articolazione carpometacarpica,1,Artropatie (M00-M25),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+J62.8,pneumoconiosi da altre polveri contenenti silice Silicosi S.A.I,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+M47.8,Altre spondilosi,3,Dorsopatie (M40-M54),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+B76.0,ANCHILOSTOMIASI,15,Elmintiasi (B65-B83),I,Alcune malattie infettive e parassitarie (A00-B99)
+I95,Ipotensione,8,Altri e non specificati disturbi del sistema circolatorio (I95-I99),IX,Malattie del sistema circolatorio (I00-I99)
+J67.3,Suberosi,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+K05.1,Gengivite cronica,1,Malattie della cavità orale,,
+M23.3,Altre lesioni di menisco,1,Artropatie (M00-M25),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+N30.9,Cistite non specificata,4,Altre malattie dell'apparato urinario (N30-N39),XIV,Malattie dell'apparato genitourinario (N00-N99)
+A22.2,Carbonchio gastrointestinale,3,Alcune malattie batteriche trasmesse da animali (A20-A28),I,Alcune malattie infettive e parassitarie (A00-B99)
+I73.8,Altre malattie vascolari periferiche specificate,6,Malattie delle arterie,,
+K52.1,Gastroenterite e colite tossiche,4,Enteriti e coliti non infettive (K50-K52),XI,Malattie dell'apparato digerente (K00-K93)
+N80.9,Endometriosi non specificata,6,Disturbi non infiammatori dell'apparato genitale femminile (N80-N98),XIV,Malattie dell'apparato genitourinario (N00-N99)
+C03,Tumore maligno della gengiva,1,Tumori maligni del labbro,,
+G44.1,Cefalea vasomotoria non classificata altrove,5,Disturbi episodici e parossistici (G40-G47),VI,Malattie del sistema nervoso (G00-G99)
+I30,Pericardite acuta,4,Altre forme di cardiopatia (I30-I52),IX,Malattie del sistema circolatorio (I00-I99)
+J63.2,Berilliosi,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+L50.6,Orticaria da contatto,4,Orticaria ed eritema (L50-L54),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+A98,Altre febbri emorragiche virali,,,,
+C45.2,Mesotelioma del pericardio,6,Tumore maligno di tessuto mesoteliale e dei tessuti molli (C45-C49),II,Tumori (C00-D48)
+C93,Leucemia monocitica,14,Tumore maligno del tessuto linfatico,,
+D58.2,Altre emoglobinopatie,2,Anemie emolitiche (D55-D59),III,Malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario (D50-D89)
+J66.0,Bissinosi,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+K74.0,Fibrosi epatica,6,Malattie del fegato (K70-K77),XI,Malattie dell'apparato digerente (K00-K93)
+C13,Tumore maligno dell'ipofaringe,1,Tumori maligni del labbro,,
+G54.1,Disturbi del plesso lombosacrale,6,Disturbi dei nervi,,
+H90.4,Sordità neurosensoriale monolaterale con mantenimento della finzione uditiva contro laterale,3,Altri disturbi dell'orecchio (H90-H95),VIII,Malattie dell'orecchio e dell'apofisi mastoide (H60-H95)
+I70.0,Aterosclerosi dell'aorta,6,Malattie delle arterie,,
+J40,Bronchite non specificata come acuta o cronica,2,Malattie croniche delle basse vie respiratorie (J40-J47),X,Malattie del sistema respiratorio (J00-J99)
+L59.8,Altri disturbi specificati della cute e dei tessuti sottocutanei correlati a radiazioni,5,Disturbi della cute e del tessuto sottocutaneo da radiazioni (L55-L59),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+B65,Schistosomiasi (bilharziosi),15,Elmintiasi (B65-B83),I,Alcune malattie infettive e parassitarie (A00-B99)
+C96,Altro e non specificato tumore maligno del tessuto linfoide,,,,
+F60,Disturbi di personalità specifici,7,Disturbi della personalità e del comportamento nell.adulto (F60-F69),V,Disturbi psichici e comportamentali (F00-F99)
+H10.1,Congiuntivite atopica acuta,1,Disturbi della congiuntiva (H10-H13),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+L59.0,Eritema ab igne,5,Disturbi della cute e del tessuto sottocutaneo da radiazioni (L55-L59),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M77.2,Periartrite del polso,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+B86,Scabbia,16,Pediculosi,,
+C43,Melanoma maligno della cute,5,Melanoma ed altri tumori maligni della cute (C43-C44),II,Tumori (C00-D48)
+J60,Pneumoconiosi dei lavoratori del carbone,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+D05,Carcinoma in situ della mammella,16,Tumori in situ (D00-D09),II,Tumori (C00-D48)
+A00,Colera,1,Malattie infettive intestinali (A00-A09),I,Alcune malattie infettive e parassitarie (A00-B99)
+A82,Rabbia,8,Infezioni virali del sistema nervoso centrale (A80-A89),I,Alcune malattie infettive e parassitarie (A00-B99)
+C84,Linfoma a cellule T periferiche e cutanee,14,Tumore maligno del tessuto linfatico,,
+C92,Leucemia mieloide,14,Tumore maligno del tessuto linfatico,,
+G62.9,Polineuropatia non specificata,7,Polineuropatie ed altri disturbi del sistema nervoso peiferico(G60-G64),VI,Malattie del sistema nervoso (G00-G99)
+H16.2,Cheratocongiuntivite,2,Disturbi della sclera,,
+J63,Pneumoconiosi da altre polveri inorganiche,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+B58,Toxoplasmosi,14,Malattie protozoarie (B50-B64),I,Alcune malattie infettive e parassitarie (A00-B99)
+C33,Tumore maligno della trachea,3,Tumori maligni dell¿apparato respiratorio e degli organi intratoracici (C30-C39),II,Tumori (C00-D48)
+D04,Carcinoma in situ della cute,16,Tumori in situ (D00-D09),II,Tumori (C00-D48)
+D21,Altri tumori benigni del tessuto connettivo e di altri tessuti molli,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+D52.9,Anemia da deficit di folati non specificata,1,Anemie nutrizionali (D50-D53),III,Malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario (D50-D89)
+D86,Sarcoidosi,6,Alcuni disturbi interessanti il sistema immunitario (D80-D89),III,Malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario (D50-D89)
+F41,Altri disturbi d'ansia,5,Disturbi nevrotici,,
+G35,Sclerosi multipla,4,Malattie demielinizzanti del sistema nervoso centrale (G35-G37),VI,Malattie del sistema nervoso (G00-G99)
+M70.4,Borsite prepatellare,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+B18.1,Epatite virale cronica B senza agente delta,11,Epatite virale (B15-B19),I,Alcune malattie infettive e parassitarie (A00-B99)
+D22,Nevi melanocitici,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+D33,Tumori benigni dell'encefalo e di altre parti del sistema nervoso centrale,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+G56.1,Altre lesioni del nervo mediano,6,Disturbi dei nervi,,
+I34,Disturbi non reumatici della valvola mitralica,4,Altre forme di cardiopatia (I30-I52),IX,Malattie del sistema circolatorio (I00-I99)
+H10,Congiuntivite,1,Disturbi della congiuntiva (H10-H13),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+I35,Disturbi non reumatici della valvola aortica,4,Altre forme di cardiopatia (I30-I52),IX,Malattie del sistema circolatorio (I00-I99)
+B44.0,Aspergillosi polmonare invasiva,13,Micosi (B35-B49),I,Alcune malattie infettive e parassitarie (A00-B99)
+C31.3,Tumore maligno del seno sfenoidale,3,Tumori maligni dell¿apparato respiratorio e degli organi intratoracici (C30-C39),II,Tumori (C00-D48)
+C63,Tumore maligno di altro e non specificato organo genitale maschile,9,Tumori maligni degli organi genitali maschili (C60-C63),II,Tumori (C00-D48)
+F61,Altri disturbi di personalità e forme miste,7,Disturbi della personalità e del comportamento nell.adulto (F60-F69),V,Disturbi psichici e comportamentali (F00-F99)
+G40.1,Epilessia e sindromi epilettiche sintomatiche,,,,
+H11.3,Emorragia congiuntivale,1,Disturbi della congiuntiva (H10-H13),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+I83.0,Varici (venose) degli arti inferiori con ulcera,7,Malattie delle vene,,
+J67.2,Polmone degli allevatori di uccelli,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+L64,Alopecia androgenica,6,Disturbi degli annessi cutanei (L60-L75),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L85.1,Cheratosi acquisita (cheratoderma) palmare e plantare,7,Altri disturbi della cute e del tessuto sottocutaneo (L80-L99),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M77.5,Altra entesopatia del piede,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+C25,Tumore maligno del pancreas,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+E04.9,Gozzo non tossico non specificato,1,Disturbi della tiroide (E00-E07),IV,Malattie endocrine
+E14,Diabete mellito non specificato,2,Diabete mellito (E10-E14),IV,Malattie endocrine
+F48.0,Nevrastenia,5,Disturbi nevrotici,,
+J37,Laringite e laringotracheite croniche,1,Altre malattie delle alte vie respiratorie (J30-J39),X,Malattie del sistema respiratorio (J00-J99)
+M06.9,Artrite reumatoide non specificata,1,Artropatie (M00-M25),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+C11,Tumore maligno della rinofaringe,1,Tumori maligni del labbro,,
+C22.0,Carcinoma epatocellulare,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+C31.1,Tumore maligno del seno etmoidale,3,Tumori maligni dell¿apparato respiratorio e degli organi intratoracici (C30-C39),II,Tumori (C00-D48)
+C81,Morbo di Hodgkin,14,Tumore maligno del tessuto linfatico,,
+D00,Carcinoma in situ della cavità orale,,,,
+D30,Tumori benigni degli organi urinari,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+F07.9,Disturbo organico della personalità e del comportamento non specificato Psicosindrome organica,1,Disturbi psichici di natura organica,,
+H91.0,Perdita uditiva da ototossicità,3,Altri disturbi dell'orecchio (H90-H95),VIII,Malattie dell'orecchio e dell'apofisi mastoide (H60-H95)
+A07.1,Giardiasi,1,Malattie infettive intestinali (A00-A09),I,Alcune malattie infettive e parassitarie (A00-B99)
+A31,Infezione da altri micobatteri,4,Altre malattie batteriche (A30-A49),I,Alcune malattie infettive e parassitarie (A00-B99)
+B44.7,Aspergillosi disseminata,13,Micosi (B35-B49),I,Alcune malattie infettive e parassitarie (A00-B99)
+C06,Tumore maligno di altre e non specificate parti della bocca,1,Tumori maligni del labbro,,
+C21,Tumore maligno dell'ano e del canale anale,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+C45.1,Mesotelioma del peritoneo,6,Tumore maligno di tessuto mesoteliale e dei tessuti molli (C45-C49),II,Tumori (C00-D48)
+C90,Mieloma multiplo e tumori plasmacellulari maligni,14,Tumore maligno del tessuto linfatico,,
+F07.0,Disturbo organico di personalità,1,Disturbi psichici di natura organica,,
+N12,Nefrite tubulo-interstiziale non specificata se acuta o cronica,2,Malattie renali tubulo-interstiziali (N10-N16),XIV,Malattie dell'apparato genitourinario (N00-N99)
+B94.2,sequele di epatite virale,17,Sequele di malattie infettive e parassitarie (B90-B94),I,Alcune malattie infettive e parassitarie (A00-B99)
+C05,Tumore maligno del palato,1,Tumori maligni del labbro,,
+D10,Tumori benigni della bocca e della faringe,17,Tumori benigni (D10-D36),II,Tumori (C00-D48)
+N46,Infertilità maschile,5,Malattie dell'apparato genitale maschile (N40-N51),XIV,Malattie dell'apparato genitourinario (N00-N99)
+B15,Epatite acuta A,11,Epatite virale (B15-B19),I,Alcune malattie infettive e parassitarie (A00-B99)
+B24,Malattia da virus dell'immunodeficienza umana (HIV),,,,
+B46,Zigomicosi,13,Micosi (B35-B49),I,Alcune malattie infettive e parassitarie (A00-B99)
+C73,Tumore maligno della tiroide,12,Tumore maligno della tiroide e delle altre ghiandole endocrine (C73-C75),II,Tumori (C00-D48)
+G92,Encefalopatia tossica,9,Altri disturbi del sistema nervoso (G90-G99),VI,Malattie del sistema nervoso (G00-G99)
+J81,Edema polmonare,4,Altre pneumopatie che interessano prevalentemente l.interstizio(J80-J84),X,Malattie del sistema respiratorio (J00-J99)
+K71,Epatopatia tossica,6,Malattie del fegato (K70-K77),XI,Malattie dell'apparato digerente (K00-K93)
+M19.2,Artrosi secondaria di altre articolazioni,1,Artropatie (M00-M25),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+M32.9,Lupus eritematoso sistemico non specificato,2,Disturbi sistemici del tessuto connettivo (M30-M36),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+B08,Altre infezioni virali caratterizzate da lesioni della cute e delle membrane mucose,,,,
+B52,Malaria da Plasmodium malariae,14,Malattie protozoarie (B50-B64),I,Alcune malattie infettive e parassitarie (A00-B99)
+C20,Tumore maligno del retto,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+K50,Morbo di Crohn (enterite regionale),4,Enteriti e coliti non infettive (K50-K52),XI,Malattie dell'apparato digerente (K00-K93)
+M83,Osteomalacia dell'adulto,5,Osteopatie e condropatie (M80-M94),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+N10,Nefrite tubulo-interstiziale acuta,2,Malattie renali tubulo-interstiziali (N10-N16),XIV,Malattie dell'apparato genitourinario (N00-N99)
+A32,Listeriosi,4,Altre malattie batteriche (A30-A49),I,Alcune malattie infettive e parassitarie (A00-B99)
+C37,Tumore maligno del timo,3,Tumori maligni dell¿apparato respiratorio e degli organi intratoracici (C30-C39),II,Tumori (C00-D48)
+C46,Sarcoma di Kaposi,6,Tumore maligno di tessuto mesoteliale e dei tessuti molli (C45-C49),II,Tumori (C00-D48)
+J66.1,Malattia dei cardatori di lino,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+J68.0,Bronchite e polmonite da sostanze chimiche gas fumi vapori,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+C82,Linfoma non Hodgkin follicolare (nodulare),14,Tumore maligno del tessuto linfatico,,
+I60,Emorragia subaracnoidea,5,Malattie cerebrovascolari (I60-I69),IX,Malattie del sistema circolatorio (I00-I99)
+I80.2,Flebite e tromboflebite di altri vasi profondi degli arti inferiori,7,Malattie delle vene,,
+J42,Bronchite cronica non specificata,,,,
+L50.2,Orticaria da freddo e da caldo,4,Orticaria ed eritema (L50-L54),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L23.5,Dermatite allergica da contatto dovuta a altri prodotti chimici: cemento,,,,
+B50,Malaria da Plasmodium falciparum,14,Malattie protozoarie (B50-B64),I,Alcune malattie infettive e parassitarie (A00-B99)
+C22.3,Angiosarcoma del fegato,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+I67.2,Aterosclerosi cerebrale,5,Malattie cerebrovascolari (I60-I69),IX,Malattie del sistema circolatorio (I00-I99)
+L43,Lichen planus,3,Disturbi papulosquamosi della cute (L40-L45),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+B07,Verruche virali,10,Infezioni virali caratterizzate da lesioni della cute e delle membrane mucosa (B00-B09),I,Alcune malattie infettive e parassitarie (A00-B99)
+G30,Malattia di Alzheimer,3,Altre malattie degenerative del sistema nervoso (G30-G32),VI,Malattie del sistema nervoso (G00-G99)
+H54,Cecità e ipovisione,8,Disturbi visivi e cecità (H53-H54),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+K71.7,Epatopatia tossica con fibrosi e cirrosi epatiche,6,Malattie del fegato (K70-K77),XI,Malattie dell'apparato digerente (K00-K93)
+L42,Pitiriasi rosea,3,Disturbi papulosquamosi della cute (L40-L45),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+998,IMPOSSIBILITA GIUDIZIO MEDICO-LEGALE,99,CODICE FITTIZIO,ZZZZZ,CODICE FITTIZIO
+A70,Infezione da Chlamydia psittaci,6,Altre malattie causate da Chlamydiae (A70-A74),I,Alcune malattie infettive e parassitarie (A00-B99)
+H80,Otosclerosi,2,Malattie dell'orecchio interno (H80-H83),VIII,Malattie dell'orecchio e dell'apofisi mastoide (H60-H95)
+J30.4,Rinite allergica non specificata,1,Altre malattie delle alte vie respiratorie (J30-J39),X,Malattie del sistema respiratorio (J00-J99)
+J67.7,Polmone da condizionatore ed umidificatore d'aria,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+L23.0,Dermatite allergica da contatto dovuta a metalli cromo  nichel,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+A19,Tubercolosi miliare,2,Tubercolosi (A15-A19),I,Alcune malattie infettive e parassitarie (A00-B99)
+K59,Altri disturbi intestinali di tipo funzionale,5,Altre malattie dell'intestino (K55-K63),XI,Malattie dell'apparato digerente (K00-K93)
+L24.4,Dermatite irritativa da contatto dovuta a farmaci a contatto cute,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M15,Poliartrosi,1,Artropatie (M00-M25),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+N03,Sindrome nefritica cronica,1,Malattie glomerulari (N00-N08),XIV,Malattie dell'apparato genitourinario (N00-N99)
+C83,Linfoma non Hodgkin diffuso,14,Tumore maligno del tessuto linfatico,,
+F68,Altri disturbi della personalità e del comportamento nell'adulto,7,Disturbi della personalità e del comportamento nell.adulto (F60-F69),V,Disturbi psichici e comportamentali (F00-F99)
+G62.2,Polineuropatia da altri agenti tossici,7,Polineuropatie ed altri disturbi del sistema nervoso peiferico(G60-G64),VI,Malattie del sistema nervoso (G00-G99)
+H40,Glaucoma,5,Glaucoma (H40-H42),VII,Malattie dell'occhio e degli annessi oculari (H00-H59)
+M65.4,Tenosinovite dello stiloide radiale (De Quervain),4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+M75.1,Sindrome della cuffia dei rotatori,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+M75.4,"Sindrome da ""impingement"" (o da conflitto anteriore o da attrito acromion-omerale) della spalla",4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+T58,Effetto tossico del monossido di carbonio,1,Effetti tossici di sostanze di origine principalmente non medicamentosa (T51-T65),XIX,Traumatismi
+A22.1,Carbonchio polmonare,3,Alcune malattie batteriche trasmesse da animali (A20-A28),I,Alcune malattie infettive e parassitarie (A00-B99)
+B45,Criptococcosi,13,Micosi (B35-B49),I,Alcune malattie infettive e parassitarie (A00-B99)
+C95,Leucemia di tipo cellulare non specificato,14,Tumore maligno del tessuto linfatico,,
+F21,Disturbo schizotipico,3,Schizofrenia,,
+G00.2,Meningite da streptococco,1,Malattie infiammatorie del sistema nervoso centrale (G00-G09),VI,Malattie del sistema nervoso (G00-G99)
+I12.9,Malattia renale ipertensiva senza insufficienza renale,1,Malattie ipertensive (I10-I15),IX,Malattie del sistema circolatorio (I00-I99)
+I70.2,Aterosclerosi delle arterie degli arti,6,Malattie delle arterie,,
+J67.0,Polmone del contadino,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+J70.0,Manifestazioni polmonari acute da radiazioni,3,Malattie polmonari da agenti esterni (J60-J70),X,Malattie del sistema respiratorio (J00-J99)
+T66,Effetti non specificati delle radiazioni,2,Altri e non specificati effetti di cause esterne (T66-T78),XIX,Traumatismi
+C31,Tumore maligno dei seni paranasali,3,Tumori maligni dell¿apparato respiratorio e degli organi intratoracici (C30-C39),II,Tumori (C00-D48)
+F31,Disturbo affettivo bipolare,4,Disturbi dell'umore [affettivi] (F30-F39),V,Disturbi psichici e comportamentali (F00-F99)
+F62,Modificazioni durature di personalità non attribuibili a danno o malattia cerebrale,7,Disturbi della personalità e del comportamento nell.adulto (F60-F69),V,Disturbi psichici e comportamentali (F00-F99)
+A27,Leptospirosi,3,Alcune malattie batteriche trasmesse da animali (A20-A28),I,Alcune malattie infettive e parassitarie (A00-B99)
+C22.1,Carcinoma delle vie biliari intraepatiche,2,Tumori maligni degli organi dell¿apparato digerente (C15-C26),II,Tumori (C00-D48)
+I20,Angina pectoris,2,Cardiopatie ischemiche (I20-I25),IX,Malattie del sistema circolatorio (I00-I99)
+I24,Altre cardiopatie ischemiche acute,2,Cardiopatie ischemiche (I20-I25),IX,Malattie del sistema circolatorio (I00-I99)
+I33,Endocardite acuta e subacuta,4,Altre forme di cardiopatia (I30-I52),IX,Malattie del sistema circolatorio (I00-I99)
+K03.2,Erosione dentale,1,Malattie della cavità orale,,
+L23.2,Dermatite allergica da contatto dovuta a cosmetici,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+L24.7,Dermatite irritativa da contatto dovuta a piante non alimentari,2,Dermatite ed eczema (L20-L30),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+C32,Tumore maligno della laringe,3,Tumori maligni dell¿apparato respiratorio e degli organi intratoracici (C30-C39),II,Tumori (C00-D48)
+D47.1,Malattia mieloproliferativa cronica,18,Tumori di comportamento incerto o sconosciuto (D37-D48),II,Tumori (C00-D48)
+I70.8,Aoerosclerosi di altre arterie,6,Malattie delle arterie,,
+I73.1,Tromboangioite obliterante (Buerger),6,Malattie delle arterie,,
+J31.0,Rinite cronica,1,Altre malattie delle alte vie respiratorie (J30-J39),X,Malattie del sistema respiratorio (J00-J99)
+K71.8,Epatopatia tossica con altri disturbi del fegato,6,Malattie del fegato (K70-K77),XI,Malattie dell'apparato digerente (K00-K93)
+L60.8,Altre malattie delle unghie,6,Disturbi degli annessi cutanei (L60-L75),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
+M65,Sinovite e tenosinovite,4,Disturbi dei tessuti molli (M60-M79),XIII,Malattie del sistema osteomuscolare e del tessuto connettivo (M00-M99)
+F30,Episodio maniacale,4,Disturbi dell'umore [affettivi] (F30-F39),V,Disturbi psichici e comportamentali (F00-F99)
+G37,Altre malattie demielinizzanti del sistema nervoso centrale,4,Malattie demielinizzanti del sistema nervoso centrale (G35-G37),VI,Malattie del sistema nervoso (G00-G99)
+K25,Ulcera gastrica,2,Malattie dell'esofago,,
+C64,Tumore maligno del rene,,,,
+D59.8,Altre anemie emolitiche acquisite,2,Anemie emolitiche (D55-D59),III,Malattie del sangue e degli organi ematopoietici ed alcuni disturbi del sistema immunitario (D50-D89)
+F06.2,Disturbo delirante organico (schizofreniforme),1,Disturbi psichici di natura organica,,
+G55.2,Compressioni delle radici nervose e dei plessi in spondilosi (M47.+),6,Disturbi dei nervi,,
+L70.0,Acne vulgaris,6,Disturbi degli annessi cutanei (L60-L75),XII,Malattie della cute e del tessuto sottocutaneo (L00-L99)
